@@ -1,0 +1,21 @@
+11/27/17:
+- after messing around in SFML for a week, this is the start of making Run Cube RUN!!
+- setup the basic window
+- start the player class
+
+11/28/17:
+- make a solid class
+- implement collision between player and solids
+
+11/29/17:
+- improve collision
+- make camera class
+- make platform/solid generation
+
+11/30/17:
+- implement score
+
+12/01/17:
+- add in a simple start screen
+- add simple end screen
+- add random colors to solids

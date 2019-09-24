@@ -1,0 +1,22 @@
+Run Cube RUN!!
+
+This is an a simple endless runner. The point is to get the highest score by
+staying alive for the longest time.
+
+INSTALL:
+- to install type in "make".
+- "make clean" removes all .o files and the program file
+
+RUN:
+- to run type in "./Run Cube RUN!!"
+
+Directions:
+- Up, Right, and Left arrow keys to move.
+- Holding Up lets you float.
+- Stay on the screen for the longest amount of time you can.
+
+NOTE:
+- You must have SFML 2.4 installed to run Run Cube RUN!!
+  + To install SFML type "sudo yum install SFML-devel".
+- To exit the program, use the x button in the top right.
+- This program is not optimized and runs everything on the cpu, it may run slow.
